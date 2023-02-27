@@ -1,0 +1,13 @@
+html {
+    font-size: 13px;
+    margin: 0px;
+    padding: 0px;
+}
+
+*{
+    font-family: 'Gugi', cursive;
+}
+
+#bgprimary{
+    background: #23A455;
+}
